@@ -1,0 +1,15 @@
+F:\C\WorkPlace\bin\Debug\net6.0\WorkPlace.exe
+F:\C\WorkPlace\bin\Debug\net6.0\WorkPlace.deps.json
+F:\C\WorkPlace\bin\Debug\net6.0\WorkPlace.runtimeconfig.json
+F:\C\WorkPlace\bin\Debug\net6.0\WorkPlace.dll
+F:\C\WorkPlace\bin\Debug\net6.0\WorkPlace.pdb
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.csproj.AssemblyReference.cache
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.GeneratedMSBuildEditorConfig.editorconfig
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.AssemblyInfoInputs.cache
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.AssemblyInfo.cs
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.csproj.CoreCompileInputs.cache
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.dll
+F:\C\WorkPlace\obj\Debug\net6.0\refint\WorkPlace.dll
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.pdb
+F:\C\WorkPlace\obj\Debug\net6.0\WorkPlace.genruntimeconfig.cache
+F:\C\WorkPlace\obj\Debug\net6.0\ref\WorkPlace.dll

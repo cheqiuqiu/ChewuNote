@@ -1,0 +1,15 @@
+F:\C\WorkPlace\bin\Debug\net6.0\001_练习.exe
+F:\C\WorkPlace\bin\Debug\net6.0\001_练习.deps.json
+F:\C\WorkPlace\bin\Debug\net6.0\001_练习.runtimeconfig.json
+F:\C\WorkPlace\bin\Debug\net6.0\001_练习.dll
+F:\C\WorkPlace\bin\Debug\net6.0\001_练习.pdb
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.csproj.AssemblyReference.cache
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.GeneratedMSBuildEditorConfig.editorconfig
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.AssemblyInfoInputs.cache
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.AssemblyInfo.cs
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.csproj.CoreCompileInputs.cache
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.dll
+F:\C\WorkPlace\obj\Debug\net6.0\refint\001_练习.dll
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.pdb
+F:\C\WorkPlace\obj\Debug\net6.0\001_练习.genruntimeconfig.cache
+F:\C\WorkPlace\obj\Debug\net6.0\ref\001_练习.dll
